@@ -1,1 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background: rgba(128, 179, 237, 0.506);
+  font-size: small;
+  font-family: Arial;
+}
